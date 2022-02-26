@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: navy;
+    padding: 10px;
+    border-radius: 10px;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+footer {
+    background-color: navy;
+    padding: 10px;
+}
+footer p {
+    background-color: oldlace;
+    padding: 5px;
+}
+nav {
+    margin: 20px;
+}
+nav a {
+    margin: 10px;
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid navy;
+}
+.prod {
+    background-color: navy;
+    color: white;
+}
+
+h2 {
+    color: blue;
+}
+.con {
+    border: 2px solid navy;
+    margin: 5px;
+
+}
